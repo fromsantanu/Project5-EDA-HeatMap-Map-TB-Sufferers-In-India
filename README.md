@@ -48,6 +48,26 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
+This program creates an interactive heatmap to visualize the distribution of tuberculosis (TB) sufferers across major Indian cities. Here’s what can be understood from its output in layman's terms:
+
+Interactive Map:
+
+The map is centered around India and allows users to zoom in and out to explore different regions more closely.
+Heatmap Layer:
+
+The heatmap shows areas with higher concentrations of TB sufferers. The intensity of the color indicates the number of TB cases, with brighter areas representing higher numbers of TB sufferers.
+City Markers:
+
+Blue circle markers are placed on the map to indicate the locations of major cities. Each marker includes a popup that displays the name of the city and the number of TB sufferers in that city.
+Data Visualization:
+
+By looking at the heatmap, users can easily identify TB hotspots where the number of sufferers is particularly high. The color gradient provides a visual representation of how severe the TB burden is in different cities.
+Geographical Insights:
+
+The map helps to see the geographical spread of TB cases across India. It highlights specific regions that are more affected by TB, which can be useful for public health planning and resource allocation.
+
+In summary, this interactive heatmap allows users to visually explore and understand the distribution and intensity of TB cases across major Indian cities, making it easier to identify which areas need more attention and resources to combat the disease.
+
 ## Contribution
 
 The programs are written by Santanu Karmakar
